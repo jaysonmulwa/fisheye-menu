@@ -1,2 +1,2 @@
 # fisheye-menu
-Seven wonders of the world as fisheye-menu
+Seven wonders of the world as a fish-eye menu
